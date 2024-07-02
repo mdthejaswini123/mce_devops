@@ -6,7 +6,7 @@ from division import divide
 def main():
     print("Simple Calculator Program")
     
-    a = 10
+    a = 3
     b = 5
     print("a and b")
     print(f"Addition of {a} and {b}: {add(a, b)}")
